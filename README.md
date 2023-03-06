@@ -1,5 +1,5 @@
 # Online-zoo
- Online-zoo is a platform that collects information about animals from various zoos. This project was created while studying at RS SHOOL https://rs.school/index.html Stage 0 2022q2
+ Online-zoo is a platform that collects information about animals from various zoos. This project was created while studying at RS SHOOL https://rs.school/index.html Stage 1 2022q3
 
 ## Task:
 * https://github.com/rolling-scopes-school/tasks/tree/master/stage1/stream2/online-zoo
