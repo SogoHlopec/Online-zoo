@@ -17,3 +17,9 @@
 * Burger menu
 * Adaptive layout
 * Pixel Perfect
+
+## Desktop
+![desktop](https://github.com/SogoHlopec/Online-zoo/blob/main/desktop.jpg)
+
+## Mobile
+![mobile](https://github.com/SogoHlopec/Online-zoo/blob/main/mobile.jpg)
